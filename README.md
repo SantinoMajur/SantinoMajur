@@ -27,10 +27,8 @@
 
 ### :man_technologist: About Me :
 I am Santino Majur a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Sudan.
-- 👀 I’m interested in html, css, javascript, python, tailwind, react, sql, postgresql, web development, software development.
 - 🌱 I’m currently learning at ALX software engineering course
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me ...
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
